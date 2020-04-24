@@ -1,2 +1,2 @@
 # appsody-demo-spring2
-Test1
+Test
