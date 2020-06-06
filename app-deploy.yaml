@@ -51,7 +51,7 @@ metadata:
     stack.appsody.dev/id: java-spring-boot2
     stack.appsody.dev/version: 0.3.28
   name: appsody-sample-java-spring-boot2
-  namespace: vergieswg
+  namespace: kabanero
 spec:
   applicationImage: dev.local/appsody-sample-java-spring-boot2
   createKnativeService: false
