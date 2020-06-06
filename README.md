@@ -1,2 +1,3 @@
 # appsody-demo-spring2
-Test
+
+After Deploy then goto {route-openshift}/starter/hello
